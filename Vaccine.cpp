@@ -41,7 +41,7 @@ public:
 			{
 				cout << this->grame[i] << " g, ";
 			}
-			cout << this->grame[this->nrDoze - 1] << " lei.";
+			cout << this->grame[this->nrDoze - 1] << "g.";
 		}
 	}
 };
