@@ -18,5 +18,8 @@
     <ClCompile Include="EXEMPLU EXAMEN REZOLVAT SALA EVENIMENTE.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Vaccine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
