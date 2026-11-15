@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="EXEMPLU EXAMEN REZOLVAT SALA EVENIMENTE.cpp" />
+    <ClCompile Include="ExempluTestRezolvat.cpp" />
     <ClCompile Include="Masina.cpp" />
     <ClCompile Include="Vaccine.cpp" />
   </ItemGroup>
