@@ -139,6 +139,10 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Benzinarie.cpp" />
+    <ClCompile Include="Biblioteca.cpp" />
+    <ClCompile Include="Calatorie.cpp" />
+    <ClCompile Include="Depozit.cpp" />
     <ClCompile Include="EXEMPLU EXAMEN REZOLVAT SALA EVENIMENTE.cpp" />
     <ClCompile Include="ExempluTestRezolvat.cpp" />
     <ClCompile Include="Masina.cpp" />

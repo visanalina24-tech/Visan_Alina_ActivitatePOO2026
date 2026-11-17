@@ -27,5 +27,17 @@
     <ClCompile Include="ExempluTestRezolvat.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Calatorie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Benzinarie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Depozit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Biblioteca.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
