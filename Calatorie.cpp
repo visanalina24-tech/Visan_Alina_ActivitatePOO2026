@@ -25,7 +25,7 @@
 //		return this->id;
 //	}
 //	void setNumeDestinatie(const char* numeNou) {
-//		if (numeDestinatie != nullptr & strlen(numeNou) > 0) {
+//		if (numeNou != nullptr && strlen(numeNou) > 0) {
 //			delete[]this->numeDestinatie;
 //			this->numeDestinatie = new char[strlen(numeNou) + 1];
 //			strcpy(numeDestinatie, numeNou);
